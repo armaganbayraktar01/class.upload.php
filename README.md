@@ -39,6 +39,12 @@ Or install it directly:
     composer require verot/class.upload.php
 ```
 
+```
+<?php
+use Verot\Upload\Upload;
+
+```
+
 ## Demo and examples
 
 Check out the `test/` directory, which you can load in your browser. You can test the class and its different ways to instantiate it, see some code examples, and run some tests.
